@@ -1,0 +1,6 @@
+{
+  "name":"Weekly Tracker",
+  "short_name":"Tracker",
+  "display":"standalone",
+  "start_url":"./"
+}
